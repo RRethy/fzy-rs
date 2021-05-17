@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Adam P. Regasz-Rethy <rethy.spud@gmail.com>"]
 edition = "2018"
 license = "MIT"
+description = "fzy scoring algorithm as a Rust crate"
